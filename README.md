@@ -26,4 +26,4 @@ Unless otherwise stated, all commands are to be run from the root directory.
 
 ## Running
 
-- `node server/server.js` - this will start a server at `http://localhost:8081` that routes requests correctly. The server uses the dev bundle by default, but uses the prod bundle if environment variable `NODE_ENV` is set to "production".
+- `node server/server.js` - this will start a server at `http://localhost:8083` that routes requests correctly. The server uses the dev bundle by default, but uses the prod bundle if environment variable `NODE_ENV` is set to "production".
